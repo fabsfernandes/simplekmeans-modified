@@ -1,0 +1,1 @@
+Weka SimpleKMeans Modified to set static initial centroids
